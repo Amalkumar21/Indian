@@ -1,2 +1,2 @@
-# Indian.github.io
+# Indian
 This my website.
